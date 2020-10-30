@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b1cb19b-9ddb-4fb1-8d05-5c63e60de48c" name="Default Changelist" comment="" />
+    <list default="true" id="9b1cb19b-9ddb-4fb1-8d05-5c63e60de48c" name="Default Changelist" comment="Map Tabellen HF3 aangevuld" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,11 +46,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604067595736</updated>
-      <workItem from="1604067596876" duration="974000" />
+      <workItem from="1604067596876" duration="1280000" />
     </task>
+    <task id="LOCAL-00001" summary="Map Tabellen HF3 aangevuld">
+      <created>1604069427487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604069427487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Map Tabellen HF3 aangevult" />
+    <MESSAGE value="Map Tabellen HF3 aangevul" />
+    <MESSAGE value="Map Tabellen HF3 aangevuld" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map Tabellen HF3 aangevuld" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604069272454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604069272454" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604069477695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604069477695" />
   </component>
 </project>
