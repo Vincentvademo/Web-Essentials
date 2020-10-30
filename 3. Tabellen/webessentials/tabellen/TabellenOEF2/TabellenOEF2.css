@@ -1,0 +1,52 @@
+body
+{
+    background-image: url("../TabellenAssets/hout.jpg");
+}
+#schaakbord
+{
+    background-image: url("../TabellenAssets/witte-marmer.jpg");
+    height: 330px;
+    width: 200px;
+    float: right;
+    border: 4px solid saddlebrown;
+    padding: 10px;
+
+}
+td,tr
+{
+    border: 1px solid saddlebrown;
+    height: 62.5px;
+    width: 62.5px;
+    text-align: center;
+    vertical-align: center;
+}
+
+table
+{
+    border: 5px solid black;
+    height: 500px;
+    width: 500px;
+    border-spacing: 0px;
+    float: left;
+    table-layout: fixed;
+}
+tr:nth-child(odd) td:nth-child(odd)
+{
+    background-image: url("../TabellenAssets/witte-marmer.jpg");
+
+}
+tr:nth-child(odd) td:nth-child(even)
+{
+    background: url("../TabellenAssets/zwarte-marmer.jpg");
+
+}
+tr:nth-child(even) td:nth-child(even)
+{
+    background: url("../TabellenAssets/witte-marmer.jpg");
+
+}
+tr:nth-child(even) td:nth-child(odd)
+{
+    background: url("../TabellenAssets/zwarte-marmer.jpg");
+
+}
